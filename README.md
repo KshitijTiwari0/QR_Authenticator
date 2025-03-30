@@ -1,0 +1,2 @@
+# QR_Authenticator
+ QR codes are widely used in anti-counterfeiting systems, but counterfeiters exploit scanning/reprinting to create convincing duplicates. Original prints (first prints) contain subtle artifacts like sharp edges and intact Copy Detection Patterns (CDPs), while counterfeit prints (second prints) degrade these features. This project aims to develop a robust classifier to distinguish between the two.
