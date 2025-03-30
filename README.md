@@ -108,5 +108,5 @@
 Both approaches achieve >98% accuracy, with the hybrid model performing flawlessly on the test set. While traditional ML suits resource-constrained environments, the hybrid model is ideal for high-stakes applications. Future work should explore adversarial training and larger datasets.  
 
 **Deliverables**:  
-- [GitHub Repository](https://github.com/yorepo) with modularized code.  
+- [GitHub Repository](https://github.com/KshitijTiwari0/QR_Authenticator) with modularized code.  
 - Full report in Google Docs ([link](https://docs.google.com/document/d/1l09RkPVinvVtVvJDKAWkjf_FN9WezVredbrIKPZxxcQ/edit?usp=sharing)).  
